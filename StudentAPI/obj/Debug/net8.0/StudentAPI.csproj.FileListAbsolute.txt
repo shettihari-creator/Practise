@@ -1,0 +1,9 @@
+/Users/hareeshshetti/Git/Practise/StudentAPI/obj/Debug/net8.0/StudentAPI.csproj.AssemblyReference.cache
+/Users/hareeshshetti/Git/Practise/StudentAPI/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/hareeshshetti/Git/Practise/StudentAPI/obj/Debug/net8.0/StudentAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hareeshshetti/Git/Practise/StudentAPI/obj/Debug/net8.0/StudentAPI.AssemblyInfoInputs.cache
+/Users/hareeshshetti/Git/Practise/StudentAPI/obj/Debug/net8.0/StudentAPI.AssemblyInfo.cs
+/Users/hareeshshetti/Git/Practise/StudentAPI/obj/Debug/net8.0/StudentAPI.csproj.CoreCompileInputs.cache
+/Users/hareeshshetti/Git/Practise/StudentAPI/obj/Debug/net8.0/StudentAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/hareeshshetti/Git/Practise/StudentAPI/obj/Debug/net8.0/StudentAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/hareeshshetti/Git/Practise/StudentAPI/obj/Debug/net8.0/StudentAPI.sourcelink.json
